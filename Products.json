@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "title": "Gossamer Gear The One",
+        "price": 399.99,
+        "image": "assets/images/GG1.png",
+        "text": "“The One” is een tent van Gossamer Gear die opgezet moet worden met trekstokken. Daardoor weegt de tent super weinig maar kan hij niet zoveel wind aan.",
+        "Ultralight": true,
+        "Release": "2017-27-10",
+        "soort": ["Tent", "Rugzak", "Trekstokken", "slaapzak"],
+        "officialSeller": {
+            "sellerId": 1,
+            "name": "Gossamer Gear",
+            "site": "https://www.gossamergear.com",
+            "origin": "USA"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Nordisk Halland 2 PU",
+        "price": 299.99,
+        "image": "assets/images/Halland.jpg",
+        "text": "De tweepersoons tent van Nordisk is een tunneltent. Dat betekent dat hij heel sterk is en veel wind aankan maar ook dat hij meer weegt en niet freestanding is.",
+        "Ultralight": false,
+        "Release": "2013-17-05",
+        "soort": ["Tent", "Rugzak", "Trekstokken", "slaapzak"],
+        "officialSeller": {
+            "sellerId": 2,
+            "name": "Nordisk",
+            "site": "https://nordisk.eu",
+            "origin": "Denmark"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Big Agnes Copper Spur",
+        "price": 425.00,
+        "image": "assets/images/Copper.jpg",
+        "text": "Deze tent is een freestanding tent, dat wilt zeggen dat je hem kan verplaatsen zonder heel de tent af te breken. Deze tent is redelijk licht en kan redelijk veel wind aan.",
+        "Ultralight": false,
+        "Release": "2019-20-12",
+        "soort": ["Tent", "Rugzak", "Trekstokken", "slaapzak"],
+        "officialSeller": {
+            "sellerId": 3,
+            "name": "Big Agnes",
+            "site": "https://www.bigagnes.com",
+            "origin": "USA"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Osprey Atmos AG 65",
+        "price": 299.00,
+        "image": "assets/images/osprey.webp",
+        "text": "De Osprey Atmos AG 65 is een populaire trekrugzak voor lange wandeltochten en trektochten. Met een inhoud van 65 liter biedt deze rugzak voldoende ruimte voor al je benodigdheden. Het is voorzien van het Anti-Gravity (AG) rugsysteem van Osprey, dat zorgt voor een uitstekende pasvorm en ventilatie. De rugzak heeft tal van vakken en bevestigingspunten voor het dragen van wandelstokken, ijsbijlen en andere uitrusting. Dankzij het duurzame materiaal en het comfortabele draagsysteem is de Osprey Atmos AG 65 een uitstekende keuze voor serieuze trekkers.",
+        "Ultralight": false,
+        "Release": "2020-11-02",
+        "soort": ["Tent", "Rugzak", "Trekstokken", "slaapzak"],
+        "officialSeller": {
+            "sellerId": 4,
+            "name": "Osprey Atmos",
+            "site": "https://www.osprey.com/eu",
+            "origin": "USA"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Hyperlite Mountain Gear 3400 Southwest",
+        "price": 399.00,
+        "image": "assets/images/HMG.webp",
+        "text": "De Hyperlite Mountain Gear 3400 Southwest is een ultralichte rugzak die populair is onder thru-hikers en ultralichte wandelaars. Gemaakt van Dyneema-composietmateriaal, is deze rugzak duurzaam en waterdicht, waardoor hij ideaal is voor avonturen in natte omstandigheden. Met een inhoud van ongeveer 55 liter biedt de 3400 Southwest voldoende ruimte voor je uitrusting, terwijl het minimalistische ontwerp en het gebruik van lichtgewicht materialen ervoor zorgen dat de rugzak slechts een fractie van het gewicht van traditionele rugzakken heeft.",
+        "Ultralight": true,
+        "Release": "2021-30-01",
+        "soort": ["Tent", "Rugzak", "Trekstokken", "slaapzak"],
+        "officialSeller": {
+            "sellerId": 5,
+            "name": "Hyperlite Mountain Gear",
+            "site": "https://www.hyperlitemountaingear.com",
+            "origin": "USA"
+        }
+    },
+    {
+        "id": 6,
+        "title": "Gossamer Gear Kumo 36",
+        "price": 259.00,
+        "image": "assets/images/FastKumo.webp",
+        "text": "De Gossamer Gear Kumo 36 is een ultralichte dagrugzak met een inhoud van 36 liter, ontworpen voor lichtgewicht wandelaars en kampeerders. Deze rugzak is gemaakt van robuust maar lichtgewicht nylonmateriaal en weegt slechts een paar honderd gram. Ondanks zijn kleine formaat biedt de Kumo 36 voldoende ruimte voor dagtochten en ultralichte overnachtingen. Het heeft handige zakken en bevestigingspunten voor wandelstokken en andere uitrusting.",
+        "Ultralight": true,
+        "Release": "2016-27-04",
+        "soort": ["Tent", "Rugzak", "Trekstokken", "slaapzak"],
+        "officialSeller": {
+            "sellerId": 6,
+            "name": "Gossamer Gear",
+            "site": "https://www.gossamergear.com",
+            "origin":"USA"
+        }
+    },
+    {
+        "id": 7,
+        "title": "Black Diamond Distance Carbon Z",
+        "price": 125.00,
+        "image": "assets/images/ZPoles.jpg",
+        "text": "De Black Diamond Distance Carbon Z trekstokken zijn ultralichte, inklapbare trekstokken die ideaal zijn voor langeafstandswandelaars en trailrunners. Ze zijn gemaakt van carbonvezel, waardoor ze extreem licht en sterk zijn. Deze trekstokken kunnen worden opgevouwen tot een compact formaat, waardoor ze gemakkelijk kunnen worden opgeborgen in een rugzak. Ze zijn voorzien van een comfortabele schuimrubberen handgreep en een verstelbare polsband voor extra ondersteuning.",
+        "Ultralight": true,
+        "Release": "2019-26-08",
+        "soort": ["Tent", "Rugzak", "Trekstokken", "slaapzak"],
+        "officialSeller": {
+            "sellerId": 7,
+            "name": "Black Diamond",
+            "site": "https://www.blackdiamondequipment.com/en_US/",
+            "origin":"USA"
+        }
+    },
+    {
+        "id": 8,
+        "title": "LEKI Micro Vario Carbon AS",
+        "price": 175.00,
+        "image": "assets/images/LEKI.webp",
+        "text": "De LEKI Micro Vario Carbon AS trekstokken zijn opvouwbare trekstokken die een uitstekende combinatie bieden van gewicht, duurzaamheid en functionaliteit. Ze zijn gemaakt van hoogwaardig carbon en hebben het Aergon Soft handvat, dat comfortabel in de hand ligt. Een unieke eigenschap van deze trekstokken is het Anti-Shock (AS) systeem, dat schokken opvangt en de belasting op je gewrichten vermindert. Deze trekstokken zijn handig voor zowel wandelen in de bergen als voor trekkingtochten.",
+        "Ultralight": true,
+        "Release": "2018-21-12",
+        "soort": ["Tent", "Rugzak", "Trekstokken", "slaapzak"],
+        "officialSeller": {
+            "sellerId": 8,
+            "name": "LEKI",
+            "site": "https://www.leki.com/be/nl",
+            "origin":"USA"
+        }
+    },
+    {
+        "id": 9,
+        "title": "MSR DynaLock Ascent Carbon",
+        "price": 139.00,
+        "image": "assets/images/MSR.jpg",
+        "text": "De MSR DynaLock Ascent Carbon trekstokken zijn ontworpen voor gebruik in ruige terreinen en bergachtige omgevingen. Ze zijn gemaakt van duurzaam carbonvezel en voorzien van het DynaLock systeem, waarmee je de hoogte van de trekstokken eenvoudig kunt aanpassen, zelfs tijdens het wandelen, dankzij de hendelvergrendeling. Deze trekstokken zijn lichtgewicht en bieden stabiliteit en ondersteuning op verschillende terreinen, van steile hellingen tot vlakke paden.",
+        "Ultralight": true,
+        "Release": "2015-17-09",
+        "soort": ["Tent", "Rugzak", "Trekstokken", "slaapzak"],
+        "officialSeller": {
+            "sellerId": 9,
+            "name": "MSR",
+            "site": "https://www.msrgear.com/ie",
+            "origin":"USA"
+        }
+    },
+    {
+        "id": 10,
+        "title": "Therm-a-Rest Hyperion 32 Ultralight",
+        "price": 299.00,
+        "image": "assets/images/Therm.jpg",
+        "text": "De Therm-a-Rest Hyperion 32 is een ultieme keuze voor avonturiers die streven naar het minimaliseren van hun uitrusting zonder in te boeten aan warmte en comfort. Met een gewicht van slechts 456 gram is deze slaapzak ontworpen voor zomerse avonturen en warme nachten in de wildernis. De Hyperion 32 biedt voldoende isolatie met zijn hoogwaardige donsvulling en is gemakkelijk in te pakken dankzij zijn ultralichte en compressibele ontwerp.",
+        "Ultralight": true,
+        "Release": "2017-27-10",
+        "soort": ["Tent", "Rugzak", "Trekstokken", "slaapzak"],
+        "officialSeller": {
+            "sellerId": 10,
+            "name": "Therm-a-Rest",
+            "site": "https://www.thermarest.com/ie",
+            "origin":"USA"
+        }
+    },
+    {
+        "id": 11,
+        "title": "Western Mountaineering SummerLite Ultralight",
+        "price":399.00,
+        "image": "assets/images/Western.jpg",
+        "text": "De Western Mountaineering SummerLite slaapzak is de perfecte metgezel voor grammenjagers op zoek naar een hoogwaardige slaapzak voor drie seizoenen. Met een gewicht van slechts 567 gram biedt deze slaapzak een uitstekende warmte-gewichtsverhouding. De hoogwaardige 850-fill donsvulling zorgt voor een uitzonderlijke isolatie, terwijl de slimme snit voldoende ruimte biedt om comfortabel te slapen. Ideaal voor lente-, zomer- en herfstavonturen.",
+        "Ultralight": true,
+        "Release": "2024-01-03",
+        "soort": ["Tent", "Rugzak", "Trekstokken", "slaapzak"],
+        "officialSeller": {
+            "sellerId": 11,
+            "name": "Western Mountaineering",
+            "site": "https://www.westernmountaineering.com",
+            "origin":"USA"
+        }
+    },
+    {
+        "id": 12,
+        "title": "Sea to Summit Spark SPII Ultralight",
+        "price": 249.00,
+        "image": "assets/images/SOT.jpg",
+        "text": "De Sea to Summit Spark SPII slaapzak is een meesterwerk van ultralicht ontwerp. Met een gewicht van slechts 675 gram biedt deze slaapzak comfort en isolatie voor de avonturier die geen compromissen wil sluiten. De hoogwaardige 850+-fill donsvulling zorgt voor een uitstekende warmte-gewichtsverhouding, terwijl het unieke ontwerp met de gesloten voetbox en de efficiënte sluiting van de capuchon warmte vasthoudt. Deze slaapzak is geschikt voor uiteenlopende avonturen, van bergbeklimmen tot langeafstandswandelingen.",
+        "Ultralight": true,
+        "Release": "2023-04-04",
+        "soort": ["Tent", "Rugzak", "Trekstokken", "slaapzak"],
+        "officialSeller": {
+            "sellerId": 12,
+            "name": "Sea to Summit",
+            "site": "https://seatosummit.com",
+            "origin":"USA"
+        }
+    }
+]

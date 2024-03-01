@@ -1,0 +1,74 @@
+[
+    {
+        "sellerId": 1,
+        "name": "Gossamer Gear",
+        "site": "https://www.gossamergear.com",
+        "origin": "USA"
+    },
+    {
+        "sellerId": 2,
+        "name": "Nordisk",
+        "site": "https://nordisk.eu",
+        "origin": "Denmark"
+    },
+    {
+        "sellerId": 3,
+        "name": "Big Agnes",
+        "site": "https://www.bigagnes.com",
+        "origin": "USA"
+    },
+    {
+        "sellerId": 4,
+        "name": "Osprey Atmos",
+        "site": "https://www.osprey.com/eu",
+        "origin": "USA"
+    },
+    {
+        "sellerId": 5,
+        "name": "Hyperlite Mountain Gear",
+        "site": "https://www.hyperlitemountaingear.com",
+        "origin": "USA"
+    },
+    {
+        "sellerId": 6,
+        "name": "Gossamer Gear",
+        "site": "https://www.gossamergear.com",
+        "origin":"USA"
+    },
+    {
+        "sellerId": 7,
+        "name": "Black Diamond",
+        "site": "https://www.blackdiamondequipment.com/en_US/",
+        "origin":"USA"
+    },
+    {
+        "sellerId": 8,
+        "name": "LEKI",
+        "site": "https://www.leki.com/be/nl",
+        "origin":"USA"
+    },
+    {
+        "sellerId": 9,
+        "name": "MSR",
+        "site": "https://www.msrgear.com/ie",
+        "origin":"USA"
+    },
+    {
+        "sellerId": 10,
+        "name": "Therm-a-Rest",
+        "site": "https://www.thermarest.com/ie",
+        "origin":"USA"
+    },
+    {
+        "sellerId": 11,
+        "name": "Western Mountaineering",
+        "site": "https://www.westernmountaineering.com",
+        "origin":"USA"
+    },
+    {
+        "sellerId": 12,
+        "name": "Sea to Summit",
+        "site": "https://seatosummit.com",
+        "origin":"USA"
+    }
+]
